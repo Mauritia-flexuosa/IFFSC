@@ -1,0 +1,27 @@
+{
+    "id": "50DABED7",
+    "path": "~/Documents/IFFSC/script_iffsc.R",
+    "project_path": "script_iffsc.R",
+    "type": "r_source",
+    "hash": "35848352",
+    "contents": "",
+    "dirty": false,
+    "created": 1717445651910.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "1025,0",
+        "scrollLine": "1007",
+        "softWrapLines": "true"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1718735755,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1718735755102,
+    "read_only": false,
+    "read_only_alternatives": []
+}
